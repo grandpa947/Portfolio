@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creative Portfolio Website
 
 A sleek, modern single-page portfolio website for a multidisciplinary creative professional (actor, graphic designer, and digital marketer).
@@ -138,3 +139,7 @@ For issues or questions:
 **Last Updated**: June 2026
 
 Enjoy your professional portfolio! 🎬✨
+=======
+# Portfolio
+My personal portfolio website.
+>>>>>>> 7df17c707bcb045bf80d712d0ddafd4afa7f2c78
